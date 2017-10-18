@@ -1,14 +1,8 @@
 {
   "name": "react-native-looped-image-carousel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Looped carousel for React Native",
   "author": "Gonzalo Santome",
-  "contributors": [
-    {
-      "name": "Sergey Pronin",
-      "email": "sergey@pronin.me"
-    }
-  ],
   "main": "index.js",
   "scripts": {
     "test": "jest --verbose",
