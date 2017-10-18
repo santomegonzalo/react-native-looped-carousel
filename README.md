@@ -1,8 +1,8 @@
 # Looped carousel for React Native
-[![NPM version](http://img.shields.io/npm/v/react-native-looped-carousel.svg?style=flat)](https://www.npmjs.com/package/react-native-looped-carousel)
-[![Build Status](https://travis-ci.org/appintheair/react-native-looped-carousel.svg)](https://travis-ci.org/appintheair/react-native-looped-carousel)
-[![Dependency Status](https://david-dm.org/appintheair/react-native-looped-carousel.svg)](https://david-dm.org/appintheair/react-native-looped-carousel)
-[![devDependency Status](https://david-dm.org/appintheair/react-native-looped-carousel/dev-status.svg)](https://david-dm.org/appintheair/react-native-looped-carousel#info=devDependencies)
+[![NPM version](http://img.shields.io/npm/v/react-native-looped-image-carousel.svg?style=flat)](https://www.npmjs.com/package/react-native-looped-image-carousel)
+[![Build Status](https://travis-ci.org/appintheair/react-native-looped-image-carousel.svg)](https://travis-ci.org/appintheair/react-native-looped-image-carousel)
+[![Dependency Status](https://david-dm.org/appintheair/react-native-looped-image-carousel.svg)](https://david-dm.org/appintheair/react-native-looped-image-carousel)
+[![devDependency Status](https://david-dm.org/appintheair/react-native-looped-image-carousel/dev-status.svg)](https://david-dm.org/appintheair/react-native-looped-image-carousel#info=devDependencies)
 
 Full-fledged "infinite" carousel for your next [react-native](https://github.com/facebook/react-native/) project. Supports iOS and Android.
 
@@ -14,7 +14,7 @@ Based on [react-native framework](https://github.com/facebook/react-native/) by 
 ## Install
 
 ```sh
-npm install react-native-looped-carousel --save
+npm install react-native-looped-image-carousel --save
 ```
 
 ## Props
@@ -54,7 +54,7 @@ import {
   View,
   Dimensions,
 } from 'react-native';
-import Carousel from 'react-native-looped-carousel';
+import Carousel from 'react-native-looped-image-carousel';
 
 const { width, height } = Dimensions.get('window');
 
